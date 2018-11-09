@@ -1,0 +1,11 @@
+/Users/m4webdev/Projects/HellOnEarth/bin/Debug/netcoreapp2.1/HellOnEarth.deps.json
+/Users/m4webdev/Projects/HellOnEarth/bin/Debug/netcoreapp2.1/HellOnEarth.runtimeconfig.json
+/Users/m4webdev/Projects/HellOnEarth/bin/Debug/netcoreapp2.1/HellOnEarth.runtimeconfig.dev.json
+/Users/m4webdev/Projects/HellOnEarth/bin/Debug/netcoreapp2.1/HellOnEarth.dll
+/Users/m4webdev/Projects/HellOnEarth/bin/Debug/netcoreapp2.1/HellOnEarth.pdb
+/Users/m4webdev/Projects/HellOnEarth/obj/Debug/netcoreapp2.1/HellOnEarth.csprojAssemblyReference.cache
+/Users/m4webdev/Projects/HellOnEarth/obj/Debug/netcoreapp2.1/HellOnEarth.csproj.CoreCompileInputs.cache
+/Users/m4webdev/Projects/HellOnEarth/obj/Debug/netcoreapp2.1/HellOnEarth.AssemblyInfoInputs.cache
+/Users/m4webdev/Projects/HellOnEarth/obj/Debug/netcoreapp2.1/HellOnEarth.AssemblyInfo.cs
+/Users/m4webdev/Projects/HellOnEarth/obj/Debug/netcoreapp2.1/HellOnEarth.dll
+/Users/m4webdev/Projects/HellOnEarth/obj/Debug/netcoreapp2.1/HellOnEarth.pdb
